@@ -3,10 +3,12 @@
 
 
 # School_District_Analysis
-
+Files:  Run PyCitySchools-Challenge.ipynb(Download Resource folder with the csv files)
+        Run PyCitySchools.ipynb
 # Overview of the School District Analysis
 
-The purpose of the School District analysis was to use tools like python and pandas to retrieve key metrics like  school name, school math score, reading score student budgets, and many more attributes by creating a data frame from the CSV file provided
+The purpose of the School District analysis was to use tools like python and pandas to retrieve key metrics of each school within each school districts. Created school district summary with metrics such school performance based on overall passing grade, school size and type of school. student budgets, and many more attributes by creating a data frame from the CSV file provided. 
+
 
 # Results
 
