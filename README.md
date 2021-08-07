@@ -3,7 +3,7 @@
 
 
 # School_District_Analysis
-Files:  Run PyCitySchools-Challenge.ipynb(Download Resource folder with the csv files)
+Files:  Run PyCitySchools-Challenge.ipynb(Download Resource folder with the csv files).                     
         Run PyCitySchools.ipynb
 # Overview of the School District Analysis
 
@@ -23,6 +23,6 @@ The scores by School spending remains almost the same, the score by School size 
 # Summary
 
 After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, we can observe an increase in the scores for passing math, reading, and overall score by the amount of almost 20 points. This in turn has also brought changes to the School Summary Dataframe and District Summary data frame also taking into account the score by School types
-16
+
 ​
 
